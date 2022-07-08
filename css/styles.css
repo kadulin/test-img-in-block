@@ -15,5 +15,6 @@
   gap: 30px;
 }
 .item {
+  width: calc((100% -60)/3);
   border: 1px solid green;
 }
